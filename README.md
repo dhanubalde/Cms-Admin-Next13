@@ -33,7 +33,7 @@ This system aims to provide a comprehensive solution for managing and selling pr
 <img src="./Screenshots-Dashboard/products.png">
 
 ### if want to see the "front-end Store " !
-Goto Source Code : https://github.com/dhanubalde/Cms-Store-Nextjs.git
+Go to Source Code : https://github.com/dhanubalde/Cms-Store-Nextjs.git
 
 
 Key Features:
